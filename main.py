@@ -1,5 +1,4 @@
 import logging
-n = 1
 logging.basicConfig(level=logging.DEBUG , filename="logss.txt" , filemode="w")
 try:
     a = int(input())
